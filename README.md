@@ -4,7 +4,7 @@
 <li>Data source - https://raw.githubusercontent.com/rajeevratan84/datascienceforbusiness/master/travel.csv
 
 
-<h1><n>Data description:
+<h1><n>Data description:</h1></n>
   <li> date_time - timestamp
   <li> site_name  - point of sale
   <li> posa_continent - continent of the site name
